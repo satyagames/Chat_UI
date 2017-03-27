@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chat_UI_Clash_ofClans.unity
+  isLoaded: 1
+  isActive: 1
